@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Istok Web';
+    src: url(./fonts/Istok_Web/IstokWeb-Regular.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: 'Istok Web';
+    src: url(./fonts/Istok_Web/IstokWeb-Italic.ttf) format(truetype);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Istok Web';
+    src: url(./fonts/Istok_Web/IstokWeb-Bold.ttf) format(truetype);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Istok Web';
+    src: url(./fonts/Istok_Web/IstokWeb-BoldItalic.ttf) format(truetype);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(./fonts/Poppins/Poppins-Regular.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(./fonts/Poppins/Poppins-Italic.ttf) format(truetype);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(./fonts/Poppins/Poppins-Bold.ttf) format(truetype);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(./fonts/Poppins/Poppins-BoldItalic.ttf) format(truetype);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url(./fonts/Ubuntu/Ubuntu-Regular.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url(./fonts/Ubuntu/Ubuntu-Italic.ttf) format(truetype);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url(./fonts/Ubuntu/Ubuntu-Bold.ttf) format(truetype);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url(./fonts/Ubuntu/Ubuntu-BoldItalic.ttf) format(truetype);
+    font-weight: bold;
+    font-style: italic;
+}
