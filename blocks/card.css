@@ -9,21 +9,15 @@
   border: none;
 }
 
-.card__like-button:focus {
-  background-image: url(../images/red-heart-icon.png);
-  opacity: 1;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 23px;
-  height: 20px;
-  background-color: transparent;
-  border: none;
+.card__like-button:hover {
+  opacity: 100%;
 }
 
 .card__image {
   width: 413px;
   height: 413px;
   object-fit: cover;
+  border-radius: 8px;
 }
 
 .card__info {
@@ -38,4 +32,11 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 margin: 0;
+}
+
+@media screen and (max-width: 460px) {
+  .card__text {
+    font-size: 16px;
+  }
+
 }
