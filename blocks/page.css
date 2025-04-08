@@ -10,6 +10,7 @@
 
 .page__section {
   max-width: 100%;
+  /* i think the width was the issue im uncertain tho */
   margin: 0 auto;
   padding: 0 20px;
 }
