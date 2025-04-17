@@ -1,5 +1,5 @@
 .card__like-button {
-  background-image: url(../images/like-icon.svg);
+  background-image: url(../images/like-icon-dark.svg);
   /* the link that gets attached with this correction says that the icon should be gray in its default state & black in its hover state so im unsure of the correction i need to do. the gray icon is pulled straight from the figma */
   cursor: pointer;
   background-repeat: no-repeat;
@@ -13,7 +13,6 @@
 
 .card__like-button:hover {
   opacity: 100%;
-  background-image: url(../images/like-icon-dark.svg);
 }
 
 .card__image {
@@ -41,7 +40,7 @@ white-space: nowrap;
 max-width: 350px;
 }
 
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 320px) {
   .card__text {
     font-size: 16px;
     max-width: 250px;
