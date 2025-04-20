@@ -7,10 +7,14 @@
   gap: 40px 20px;
   width: 100%;
   border-bottom: 1px solid rgba(33, 33, 33, 0.4);
+  justify-content: center;
 }
 
 @media screen and (max-width: 630px) {
   .cards__list {
     grid-template-columns: repeat(auto-fit, 288px);
+    row-gap: 20px;
+    padding-bottom: 20px;
   }
 }
+/*my commits & pushes seem to not be working correctly as the corrections i received are ones i already did? i would appreciate help on the topic if it something you could provide */
